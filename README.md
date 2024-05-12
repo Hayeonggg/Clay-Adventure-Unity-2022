@@ -45,7 +45,7 @@ ___
 <br>
 
 - 아이템 줍기
-- 
+  
 |![그림9](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/420bdbb5-de35-4d20-a3ad-67aee6a6a02a)|![그림10](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/4095c6db-8e50-4162-bc1d-9e4df9234fb1)|
 |:---:|:---:|
 
@@ -53,11 +53,13 @@ ___
 <br>
 
 - 아이템 작동 방식
-- 
-|![그림11](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/4d4900d6-e74c-48db-8a45-212ac5c4ef5c)|![그림12](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/8ebc9c94-e047-4fc6-8058-128dc885c356)|
-|:---:|:---:|
+  `[물뿌리개]`
+  
+![그림12](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/8ebc9c94-e047-4fc6-8058-128dc885c356)
 
-
+  `[해머]`
+  
+![그림15](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/445b316c-5972-43a6-9da9-221420ebc56a)
 
 
 
