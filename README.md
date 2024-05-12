@@ -55,11 +55,13 @@ ___
 - 아이템 작동 방식
   `[물뿌리개]`
   
-![그림12](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/8ebc9c94-e047-4fc6-8058-128dc885c356)
+![image](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/6a36a337-f103-471b-abaa-5c02fc8d0d16)
+
 
   `[해머]`
   
-![그림15](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/445b316c-5972-43a6-9da9-221420ebc56a)
+![image](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/eb7271a5-0832-4d3c-8c16-972dc94ea324)
+
 
 
 
