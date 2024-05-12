@@ -9,13 +9,13 @@ Unity 활용 3D 어드벤처 RPG 게임 1인 제작<br><br>
   사용기술  | Unity, C#, Blender<br>
 
 ___
+
 ![20240513014916](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/b94e6bbf-22b3-4e6d-b269-90ea816795ad)
 
 
-|--|--|
-|![20240513014931](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/2e8c2856-3218-4c4c-a87e-b0bb6aa89b28)
-|d|
-
+| ![20240513014931](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/5c6654ac-d9ea-4e6f-b975-8a555e9828d5)
+ | ![20240513014940](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/8733fe2d-38bc-47d2-b885-1e06a9b34ddb)|
+|:---:|:---:|
 
 
 
