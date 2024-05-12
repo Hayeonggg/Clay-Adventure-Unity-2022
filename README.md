@@ -17,7 +17,8 @@ ___
 | ![20240513014931](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/5c6654ac-d9ea-4e6f-b975-8a555e9828d5) | ![20240513014940](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/8733fe2d-38bc-47d2-b885-1e06a9b34ddb)|
 |:---:|:---:|
 
-<br>
+<br><br><br>
+
 ___
 
 ## Map
@@ -30,6 +31,9 @@ ___
 ![그림4](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/41b337aa-5cdb-47f8-8527-09c24a4a5f60)
 ![그림5](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/39ea55d6-4214-4287-9339-3270ac2e1467)
 ![그림6](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/60f1d92c-a918-4b40-a5d9-d357c9a254cf)
+
+<br><br><br>
+
 ___
 
 ## Controls
@@ -38,10 +42,13 @@ ___
 |![그림7](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/5a41f4ad-fd50-46ac-8132-c393e2187095)|![그림8](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/badb5eca-8e91-4551-969c-328a289a24ce)|
 |:---:|:---:|
 
+<br>
+
 - 아이템 줍기
 |![그림9](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/420bdbb5-de35-4d20-a3ad-67aee6a6a02a)|![그림10](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/4095c6db-8e50-4162-bc1d-9e4df9234fb1)|
 |:---:|:---:|
 
+<br>
 
 - 아이템 작동 방식
 |![그림11](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/4d4900d6-e74c-48db-8a45-212ac5c4ef5c)|![그림14](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/1941ee1d-cf24-49f9-8c4c-609197222069)|
