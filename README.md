@@ -54,10 +54,10 @@ ___
 
 - 아이템 작동 방식
   `[물뿌리개]` &   `[해머]`
-<div align="center">
-![_2024_06_14_23_23_02_358-ezgif com-video-to-gif-converter](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/e410bd15-05f8-4e68-9649-68f6835ae212)
-</div>
 
+<p align="center">
+  <img src="_2024_06_14_23_23_02_358-ezgif com-video-to-gif-converter](https://github.com/Hayeonggg/Clay-Adventure-Unity-2022/assets/90309728/e410bd15-05f8-4e68-9649-68f6835ae212"  />
+</p>
 
 
 
